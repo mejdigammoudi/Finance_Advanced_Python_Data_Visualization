@@ -2,12 +2,12 @@
 
 Slightly more advanced Python and Data Visualization
 
-Libraries : Numpy / Mat
+Libraries : Numpy / Matplotlib / Seaborn
 
 Courses : 
-- Introduction to classes and objects in finance (ex : current yield)
-- Mathematical Tools with NumPy (ex : The volatility of a stock)
-- Introduction to libraries like Matplotlib and Seaborn
+- Object-Oriented Programming
+- Mathematical Tools with NumPy
+- Data Visualization Tools
 
 Exercises : 
 1) Modeling a simple stock & yield dividend
@@ -16,4 +16,7 @@ Exercises :
 4) Simulate the stock price movements using simple random walk
 5) Portfolio variance with weights & standard deviations 
 6) Portfolio returns & volatilities with annual returns & standard deviations
-
+7) Matplotlib : Visualize the stock prices using a line plot with Matplotlib
+8) Matplotlib : Plot both stocks on the same graph
+9) Seaborn : plot a histogram to visualize this distribution
+10) Seaborn : plot a histogram to also display a Kernel Density Estimate
