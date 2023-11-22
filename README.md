@@ -1,6 +1,4 @@
-# Lecture-3-
-
-Slightly more advanced Python and Data Visualization
+# Finance - Advanced_Python_&_Data_Visualization
 
 Libraries : Numpy / Matplotlib / Seaborn
 
