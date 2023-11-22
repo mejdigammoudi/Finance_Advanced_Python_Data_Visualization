@@ -1,4 +1,4 @@
-# Finance - Advanced_Python_&_Data_Visualization
+# Finance_Advanced_Python_Data_Visualization
 
 Libraries : Numpy / Matplotlib / Seaborn
 
